@@ -1,0 +1,7 @@
+Public class newton{
+
+private String apple(){
+
+return "Apple fell on the head";
+
+}
